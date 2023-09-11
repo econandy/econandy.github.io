@@ -1,1 +1,1 @@
-# mnav-umd.github.io
+# econandy.github.io
